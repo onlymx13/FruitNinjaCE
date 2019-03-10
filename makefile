@@ -6,7 +6,7 @@
 # ----------------------------
 
 NAME        ?= FRTNINJA
-COMPRESSED  ?= NO
+COMPRESSED  ?= YES
 ICON        ?= iconc.png
 DESCRIPTION ?= "Swipe calculator keys to slice fruits!"
 
